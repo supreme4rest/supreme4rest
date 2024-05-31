@@ -31,22 +31,6 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~ <br>
-* 1번
-* 2번
-- 3번
-- 4번
-
-[네이버](https://naver.com)
-
 ```
 System.out.println("헬로 월드");
 ```
