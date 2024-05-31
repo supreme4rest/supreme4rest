@@ -1,5 +1,9 @@
+# 안녕하세요, 저는 백엔드개발자 이은수입니다 !
+- 🔭 현재는 **Spring Boot**와 **MySQL**을 사용하여 웹 애플리케이션을 개발하고 있습니다.
+- 🌱 최근에는 **Kubernetes**와 **Docker**에 관심을 가지고 학습 중입니다.
+- 📫 이메일: example@example.com
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme4rest)](https://github.com/supreme4rest/github-readme-stats)
 
