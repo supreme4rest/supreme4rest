@@ -13,6 +13,15 @@
 
 <br><br>
 
+## 주요 프로젝트
+- [**Project 1**](https://github.com/username/project1): 설명 (사용된 기술: Java, Spring Boot)
+- [**Project 2**](https://github.com/username/project2): 설명 (사용된 기술: React, Node.js)
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=supreme4rest&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme4rest)](https://github.com/supreme4rest/github-readme-stats)
 
 
