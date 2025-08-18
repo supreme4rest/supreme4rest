@@ -13,5 +13,19 @@
 
 <br><br>
 
+<div class="flex-container" align="center">
+        <img
+        src="http://mazassumnida.wtf/api/v2/generate_badge?boj=supreme4rest"
+        width="400px"
+        />
+        <img
+        src="http://mazandi.herokuapp.com/api?handle=supreme4rest&theme=dark"
+        width="400px"
+        />
+</div>
+<hr/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supreme4rest)](https://github.com/supreme4rest/github-readme-stats)
+
+
 
