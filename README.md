@@ -5,6 +5,9 @@
 
 <br><br>
 
+<hr/>
+
+<br>
 <div class="flex-container" align="center">
         <img
         src="http://mazassumnida.wtf/api/v2/generate_badge?boj=supreme4rest"
@@ -15,9 +18,7 @@
         width="400px"
         />
 </div>
-<hr/>
-
-<br><br>
+<br>
 
 ## 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
